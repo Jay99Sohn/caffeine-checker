@@ -6,7 +6,7 @@
 
 **카페인-약물 궁합 분석기**: a Streamlit app that checks how a person's daily caffeine intake fits with the medications they take.
 
-> **Early project (May 2025).** I built this in my 4th year of pharmacy school, when I had almost no coding experience. I'm keeping it here as a record of where I started.
+> **Early project (2024).** I built this in my 4th year of pharmacy school, when I had almost no coding experience, and uploaded it to GitHub later, in 2025. I'm keeping it here as a record of where I started.
 
 ---
 
