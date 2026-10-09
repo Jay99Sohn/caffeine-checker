@@ -58,6 +58,10 @@ If I built this again, I would:
 - **Use real caffeine amounts.** Every drink currently counts as 90 mg; coffee, tea, and energy drinks differ a lot.
 - **Drop the "AI" label** unless a model is actually involved.
 
+## License
+
+All rights reserved. See [`LICENSE`](LICENSE). The bundled NanumGothic font belongs to NAVER and keeps its own license (SIL Open Font License).
+
 ---
 
 *For learning purposes only. This is not medical advice.*
